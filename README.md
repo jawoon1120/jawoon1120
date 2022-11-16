@@ -1,6 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=모양&color=auto&height=높이&section=header&text=👋 Hi there, I'm junior backend developer&fontSize=폰트크기)
 
-  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jawoon Github&fontSize=90" />
 
 ### Skill 
 
